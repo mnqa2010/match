@@ -22,7 +22,7 @@ public class ProfileCreation {
 		
 		Thread.sleep(5000);
 		
-		driver.findElement(By.xpath("//*[@id='progessive']/div[1]/fieldset[2]/div[2]/input")).sendKeys("jackie.b@mailinator.com");
+		driver.findElement(By.xpath("//*[@id='progessive']/div[1]/fieldset[2]/div[2]/input")).sendKeys("jackie.ba@mailinator.com");
 		
 		Thread.sleep(5000);
 		

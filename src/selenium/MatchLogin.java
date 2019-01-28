@@ -15,7 +15,7 @@ public class MatchLogin {
 
 		driver.get("https://www.match.com/login");
 
-		driver.findElement(By.id("email")).sendKeys("jackie.b@mailinator.com");
+		driver.findElement(By.id("email")).sendKeys("jackie.ba@mailinator.com");
 
 		Thread.sleep(2000);
 
