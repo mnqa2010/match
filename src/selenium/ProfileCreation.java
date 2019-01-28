@@ -10,8 +10,6 @@ public class ProfileCreation {
 
 	public static void main(String[] args) throws Exception {
 		
-		// TODO Auto-generated method stub
-		
 		System.setProperty("webdriver.chrome.driver", "/Users/megha/Desktop/chromedriver");
 		
 		WebDriver driver = new ChromeDriver();
